@@ -1,0 +1,2 @@
+# magia-lectora
+Lectura global
